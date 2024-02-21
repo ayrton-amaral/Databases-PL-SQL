@@ -1,0 +1,38 @@
+
+TO_CHAR(SYSDATE,'DAYDDMONTHYEARHH:MI:SSAM')                                                                                        
+-----------------------------------------------------------------------------------------------------------------------------------
+Tuesday   07 March     Twenty Twenty-Three 08:23:48 Am
+
+
+Procedure P6Q1 compiled
+
+
+--------------- FACULTY MEMBER ---------------
+The faculty member 1 is Cox Kim, who has the rank ASSO.
+--------------- ADVISED STUDENT(S) ---------------
+The student 1 is Miller Sarah, who was born in 85-07-14 and belongs to the SR.
+The student 2 is Umato Brian, who was born in 85-08-19 and belongs to the SR.
+The student 3 is Black Daniel, who was born in 82-10-10 and belongs to the JR.
+ 
+--------------- FACULTY MEMBER ---------------
+The faculty member 2 is Blanchard John, who has the rank FULL.
+--------------- ADVISED STUDENT(S) ---------------
+The student 4 is Mobley Amanda, who was born in 86-09-24 and belongs to the SO.
+ 
+--------------- FACULTY MEMBER ---------------
+The faculty member 3 is Williams Jerry, who has the rank ASST.
+--------------- ADVISED STUDENT(S) ---------------
+The student 6 is Connoly Michael, who was born in 86-12-04 and belongs to the FR.
+ 
+--------------- FACULTY MEMBER ---------------
+The faculty member 4 is Sheng Laura, who has the rank INST.
+--------------- ADVISED STUDENT(S) ---------------
+The student 5 is Sanchez Ruben, who was born in 86-11-20 and belongs to the SO.
+ 
+--------------- FACULTY MEMBER ---------------
+The faculty member 5 is Brown Philip, who has the rank ASSO.
+--------------- ADVISED STUDENT(S) ---------------
+
+
+PL/SQL procedure successfully completed.
+

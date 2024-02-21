@@ -1,0 +1,83 @@
+
+TO_CHAR(SYSDATE,'DAYDDMONTHYEARHH:MI:SSAM')                                                                                        
+-----------------------------------------------------------------------------------------------------------------------------------
+Wednesday 15 February  Twenty Twenty-Three 10:24:47 Pm
+
+
+Procedure P5Q2 compiled
+
+The Men's Expedition Parka costs $861.16, has the Spruce color, and the quantity on hand is 0.
+The Men's Expedition Parka costs $820.15, has the Spruce color, and the quantity on hand is 17.
+The Men's Expedition Parka costs $820.15, has the Spruce color, and the quantity on hand is 114.
+The Men's Expedition Parka costs $861.16, has the Spruce color, and the quantity on hand is 12.
+The 3-Season Tent costs $1066.4, has the Light Grey color, and the quantity on hand is 12.
+The 3-Season Tent costs $2078.12, has the Sky Blue color, and the quantity on hand is 16.
+The Women's Hiking Shorts costs $122.89, has the Khaki color, and the quantity on hand is 0.
+The Women's Hiking Shorts costs $122.89, has the Navy color, and the quantity on hand is 137.
+The Women's Hiking Shorts costs $122.89, has the Khaki color, and the quantity on hand is 150.
+The Women's Hiking Shorts costs $122.89, has the Khaki color, and the quantity on hand is 147.
+The Women's Hiking Shorts costs $122.89, has the Navy color, and the quantity on hand is 115.
+The Women's Hiking Shorts costs $122.89, has the Navy color, and the quantity on hand is 139.
+The Women's Fleece Pullover costs $245.94, has the Royal color, and the quantity on hand is 112.
+The Women's Fleece Pullover costs $245.94, has the Royal color, and the quantity on hand is 124.
+The Women's Fleece Pullover costs $245.94, has the Eggplant color, and the quantity on hand is 187.
+The Women's Fleece Pullover costs $245.94, has the Eggplant color, and the quantity on hand is 168.
+The Women's Fleece Pullover costs $245.94, has the Eggplant color, and the quantity on hand is 135.
+The Women's Fleece Pullover costs $245.94, has the Royal color, and the quantity on hand is 0.
+The Children's Beachcomber Sandals costs $65.59, has the Bright Pink color, and the quantity on hand is 123.
+The Children's Beachcomber Sandals costs $65.59, has the Bright Pink color, and the quantity on hand is 134.
+The Children's Beachcomber Sandals costs $65.59, has the Bright Pink color, and the quantity on hand is 137.
+The Children's Beachcomber Sandals costs $65.59, has the Bright Pink color, and the quantity on hand is 148.
+The Children's Beachcomber Sandals costs $65.59, has the Turquoise color, and the quantity on hand is 121.
+The Children's Beachcomber Sandals costs $65.59, has the Turquoise color, and the quantity on hand is 113.
+The Children's Beachcomber Sandals costs $65.59, has the Turquoise color, and the quantity on hand is 121.
+The Children's Beachcomber Sandals costs $65.59, has the Turquoise color, and the quantity on hand is 111.
+The Boy's Surf Shorts costs $65.46, has the Blue color, and the quantity on hand is 50.
+The Boy's Surf Shorts costs $65.46, has the Blue color, and the quantity on hand is 100.
+The Boy's Surf Shorts costs $65.46, has the Blue color, and the quantity on hand is 100.
+The Girl's Soccer Tee costs $82.01, has the White color, and the quantity on hand is 100.
+The Girl's Soccer Tee costs $82.01, has the White color, and the quantity on hand is 100.
+The Girl's Soccer Tee costs $82.01, has the White color, and the quantity on hand is 100.
+
+
+PL/SQL procedure successfully completed.
+
+
+Procedure P5Q3 compiled
+
+The old price is $2078.12, and the new price is $2285.93.
+The old price is $1066.4, and the new price is $1173.04.
+The old price is $122.89, and the new price is $135.18.
+The old price is $122.89, and the new price is $135.18.
+The old price is $122.89, and the new price is $135.18.
+The old price is $122.89, and the new price is $135.18.
+The old price is $122.89, and the new price is $135.18.
+The old price is $122.89, and the new price is $135.18.
+The old price is $245.94, and the new price is $270.53.
+The old price is $245.94, and the new price is $270.53.
+The old price is $245.94, and the new price is $270.53.
+The old price is $245.94, and the new price is $270.53.
+The old price is $245.94, and the new price is $270.53.
+The old price is $245.94, and the new price is $270.53.
+The old price is $65.59, and the new price is $72.15.
+The old price is $65.59, and the new price is $72.15.
+The old price is $65.59, and the new price is $72.15.
+The old price is $65.59, and the new price is $72.15.
+The old price is $65.59, and the new price is $72.15.
+The old price is $65.59, and the new price is $72.15.
+The old price is $65.59, and the new price is $72.15.
+The old price is $65.59, and the new price is $72.15.
+The old price is $820.15, and the new price is $902.17.
+The old price is $820.15, and the new price is $902.17.
+The old price is $861.16, and the new price is $947.28.
+The old price is $861.16, and the new price is $947.28.
+The old price is $65.46, and the new price is $72.01.
+The old price is $65.46, and the new price is $72.01.
+The old price is $65.46, and the new price is $72.01.
+The old price is $82.01, and the new price is $90.21.
+The old price is $82.01, and the new price is $90.21.
+The old price is $82.01, and the new price is $90.21.
+
+
+PL/SQL procedure successfully completed.
+

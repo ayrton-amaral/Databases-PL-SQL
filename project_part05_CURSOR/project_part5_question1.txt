@@ -1,0 +1,18 @@
+
+TO_CHAR(SYSDATE,'DAYDDMONTHYEARHH:MI:SSAM')                                                                                        
+-----------------------------------------------------------------------------------------------------------------------------------
+Wednesday 15 February  Twenty Twenty-Three 10:24:24 Pm
+
+
+Procedure P5Q1 compiled
+
+1 Fall 2005 CLOSED
+2 Spring 2006 CLOSED
+3 Summer 2006 CLOSED
+4 Fall 2006 CLOSED
+5 Spring 2007 CLOSED
+6 Summer 2007 OPEN
+
+
+PL/SQL procedure successfully completed.
+

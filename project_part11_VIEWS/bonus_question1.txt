@@ -1,0 +1,111 @@
+
+TO_CHAR(SYSDATE,'DAYDDMONTHYEARHH:MI:SSAM')                                                                                        
+-----------------------------------------------------------------------------------------------------------------------------------
+Monday    24 April     Twenty Twenty-Three 05:51:58 Pm
+
+
+View INVENTORY_VIEW created.
+
+
+ITEM_DESC                         ITEM_ID  INV_PRICE COLOR                    INV_ID INV_SIZE  
+------------------------------ ---------- ---------- -------------------- ---------- ----------
+Men's Expedition Parka                  1    9870.34 Spruce                       24 M         
+Men's Expedition Parka                  1    9870.34 Spruce                       23 S         
+Men's Expedition Parka                  1    9870.34 Spruce                       25 L         
+Men's Expedition Parka                  1    9870.34 Spruce                       26 XL        
+3-Season Tent                           2    9870.34 Light Grey                    2           
+3-Season Tent                           2    9870.34 Sky Blue                      1           
+Women's Hiking Shorts                   3    9870.34 Navy                          6 S         
+Women's Hiking Shorts                   3    9870.34 Khaki                         5 L         
+Women's Hiking Shorts                   3    9870.34 Navy                          8 L         
+Women's Hiking Shorts                   3    9870.34 Navy                          7 M         
+Women's Hiking Shorts                   3    9870.34 Khaki                         4 M         
+
+ITEM_DESC                         ITEM_ID  INV_PRICE COLOR                    INV_ID INV_SIZE  
+------------------------------ ---------- ---------- -------------------- ---------- ----------
+Women's Hiking Shorts                   3    9870.34 Red                           3 S         
+Women's Fleece Pullover                 4    9870.34 Royal                        14 L         
+Women's Fleece Pullover                 4    9870.34 Royal                        13 M         
+Women's Fleece Pullover                 4    9870.34 Royal                        12 S         
+Women's Fleece Pullover                 4    9870.34 Eggplant                     11 L         
+Women's Fleece Pullover                 4    9870.34 Eggplant                      9 S         
+Women's Fleece Pullover                 4    9870.34 Eggplant                     10 M         
+Children's Beachcomber Sandals          5    9870.34 Bright Pink                  22 1         
+Children's Beachcomber Sandals          5    9870.34 Bright Pink                  21 12        
+Children's Beachcomber Sandals          5    9870.34 Bright Pink                  20 11        
+Children's Beachcomber Sandals          5    9870.34 Bright Pink                  19 10        
+
+ITEM_DESC                         ITEM_ID  INV_PRICE COLOR                    INV_ID INV_SIZE  
+------------------------------ ---------- ---------- -------------------- ---------- ----------
+Children's Beachcomber Sandals          5    9870.34 Turquoise                    18 1         
+Children's Beachcomber Sandals          5    9870.34 Turquoise                    17 12        
+Children's Beachcomber Sandals          5    9870.34 Turquoise                    15 10        
+Children's Beachcomber Sandals          5    9870.34 Turquoise                    16 11        
+Boy's Surf Shorts                       6    9870.34 Blue                         27 S         
+Boy's Surf Shorts                       6    9870.34 Blue                         28 M         
+Boy's Surf Shorts                       6    9870.34 Blue                         29 L         
+Girl's Soccer Tee                       7    9870.34 White                        30 S         
+Girl's Soccer Tee                       7    9870.34 White                        31 M         
+Girl's Soccer Tee                       7    9870.34 White                        32 L         
+Summer t-shirt                         10       5000 Blue                         40 M         
+
+33 rows selected. 
+
+
+1 row updated.
+
+
+Trigger INVENTORY_VIEW_TRIGGER compiled
+
+
+1 row inserted.
+
+
+ITEM_DESC                         ITEM_ID  INV_PRICE COLOR                    INV_ID INV_SIZE  
+------------------------------ ---------- ---------- -------------------- ---------- ----------
+Men's Expedition Parka                  1    9870.34 Spruce                       26 XL        
+Men's Expedition Parka                  1    9870.34 Spruce                       24 M         
+Men's Expedition Parka                  1    9870.34 Spruce                       23 S         
+Men's Expedition Parka                  1    9870.34 Spruce                       25 L         
+3-Season Tent                           2    9870.34 Sky Blue                      1           
+3-Season Tent                           2    9870.34 Light Grey                    2           
+Women's Hiking Shorts                   3    9870.34 Navy                          8 L         
+Women's Hiking Shorts                   3    9870.34 Navy                          7 M         
+Women's Hiking Shorts                   3    9870.34 Navy                          6 S         
+Women's Hiking Shorts                   3    9870.34 Khaki                         5 L         
+Women's Hiking Shorts                   3    9870.34 Red                           3 S         
+
+ITEM_DESC                         ITEM_ID  INV_PRICE COLOR                    INV_ID INV_SIZE  
+------------------------------ ---------- ---------- -------------------- ---------- ----------
+Women's Hiking Shorts                   3    9870.34 Khaki                         4 M         
+Women's Fleece Pullover                 4    9870.34 Royal                        14 L         
+Women's Fleece Pullover                 4    9870.34 Royal                        12 S         
+Women's Fleece Pullover                 4    9870.34 Eggplant                     11 L         
+Women's Fleece Pullover                 4    9870.34 Eggplant                     10 M         
+Women's Fleece Pullover                 4    9870.34 Eggplant                      9 S         
+Women's Fleece Pullover                 4    9870.34 Royal                        13 M         
+Children's Beachcomber Sandals          5    9870.34 Turquoise                    17 12        
+Children's Beachcomber Sandals          5    9870.34 Turquoise                    18 1         
+Children's Beachcomber Sandals          5    9870.34 Bright Pink                  19 10        
+Children's Beachcomber Sandals          5    9870.34 Bright Pink                  20 11        
+
+ITEM_DESC                         ITEM_ID  INV_PRICE COLOR                    INV_ID INV_SIZE  
+------------------------------ ---------- ---------- -------------------- ---------- ----------
+Children's Beachcomber Sandals          5    9870.34 Bright Pink                  21 12        
+Children's Beachcomber Sandals          5    9870.34 Turquoise                    16 11        
+Children's Beachcomber Sandals          5    9870.34 Turquoise                    15 10        
+Children's Beachcomber Sandals          5    9870.34 Bright Pink                  22 1         
+Boy's Surf Shorts                       6    9870.34 Blue                         28 M         
+Boy's Surf Shorts                       6    9870.34 Blue                         29 L         
+Boy's Surf Shorts                       6    9870.34 Blue                         27 S         
+Girl's Soccer Tee                       7    9870.34 White                        31 M         
+Girl's Soccer Tee                       7    9870.34 White                        32 L         
+Girl's Soccer Tee                       7    9870.34 White                        30 S         
+Summer shorts                           9       6000 Sky Blue                     35 S         
+
+ITEM_DESC                         ITEM_ID  INV_PRICE COLOR                    INV_ID INV_SIZE  
+------------------------------ ---------- ---------- -------------------- ---------- ----------
+Summer t-shirt                         10       5000 Blue                         40 M         
+
+34 rows selected. 
+

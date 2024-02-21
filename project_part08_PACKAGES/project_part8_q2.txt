@@ -1,0 +1,72 @@
+
+TO_CHAR(SYSDATE,'DAYDDMONTHYEARHH:MI:SSAM')                                                                                        
+-----------------------------------------------------------------------------------------------------------------------------------
+Monday    27 March     Twenty Twenty-Three 11:00:51 Am
+
+
+Package CONSULTANT_SKILL_PACKAGE compiled
+
+
+Package Body CONSULTANT_SKILL_PACKAGE compiled
+
+Insert Y or N, please.
+
+
+PL/SQL procedure successfully completed.
+
+The consultant number 999 does not exist.
+
+
+PL/SQL procedure successfully completed.
+
+The skill number 88 does not exist.
+
+
+PL/SQL procedure successfully completed.
+
+The consultant number 100 is Mark Myers. Her/His skill is VB .NET Programming. The certification is: Y. It does not need an update.
+
+
+PL/SQL procedure successfully completed.
+
+The consultant number 100 is Mark Myers. Her/His skill is Java Programming. The certification is: Y. It does not need an update.
+
+
+PL/SQL procedure successfully completed.
+
+The consultant number 100 is Mark Myers. Her/His skill is Web Application Programming. The status has changed from Y to N.
+
+
+PL/SQL procedure successfully completed.
+
+The consultant number 100 is Mark Myers. Her/His skill is Web Application Programming. The status has changed from N to Y.
+
+
+PL/SQL procedure successfully completed.
+
+
+      C_ID   SKILL_ID CERTIFIC
+---------- ---------- --------
+       100          1 Y       
+       100          3 Y       
+       100          6 n       
+       101          4 N       
+       101          5 N       
+       102          7 Y       
+       103          1 Y       
+       103          6 Y       
+       103          8 Y       
+       103          9 Y       
+       104          8 N       
+
+      C_ID   SKILL_ID CERTIFIC
+---------- ---------- --------
+       104          9 Y       
+       105          2 N       
+       105          3 N       
+       105          4 Y       
+       102          2 Y       
+       100          5 Y       
+
+17 rows selected. 
+

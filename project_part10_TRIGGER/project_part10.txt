@@ -1,0 +1,102 @@
+
+TO_CHAR(SYSDATE,'DAYDDMONTHYEARHH:MI:SSAM')                                                                                        
+-----------------------------------------------------------------------------------------------------------------------------------
+Friday    14 April     Twenty Twenty-Three 01:12:07 Pm
+
+
+Table CUSTOMER_AUDIT dropped.
+
+
+Table CUSTOMER_AUDIT created.
+
+
+Sequence CUSTOMER_AUDIT_SEQUENCE dropped.
+
+
+Sequence CUSTOMER_AUDIT_SEQUENCE created.
+
+
+Trigger CUSTOMER_AUDIT_TRIGGER compiled
+
+no rows selected
+
+1 row inserted.
+
+
+1 row updated.
+
+
+1 row deleted.
+
+
+Commit complete.
+
+
+    ROW_ID UPDATING_USER                  TO_CHAR(UPDATING_TIME,'DDMONTHYEARHH:MI:SS')                                               
+---------- ------------------------------ -------------------------------------------------------------------------------------------
+         1 C##DES02                       14 April     Twenty Twenty-Three 01:12:07                                                  
+         2 C##DES02                       14 April     Twenty Twenty-Three 01:12:07                                                  
+         3 C##DES02                       14 April     Twenty Twenty-Three 01:12:07                                                  
+
+
+Table ORDER_LINE_AUDIT dropped.
+
+
+Table ORDER_LINE_AUDIT created.
+
+
+Sequence OL_AUDIT_SEQUENCE dropped.
+
+
+Sequence OL_AUDIT_SEQUENCE created.
+
+
+Trigger ORDER_LINE_AUDIT_TRIGGER compiled
+
+no rows selected
+
+1 row inserted.
+
+
+1 row updated.
+
+
+1 row deleted.
+
+
+Commit complete.
+
+
+    ROW_ID UPDATING_USER                  TO_CHAR(UPDATING_TIME,'DDMONTHYEARHH:MI:SS')                                                ACTION_PERFORMED         
+---------- ------------------------------ ------------------------------------------------------------------------------------------- -------------------------
+         1 C##DES02                       14 April     Twenty Twenty-Three 01:12:07                                                   INSERT                   
+         2 C##DES02                       14 April     Twenty Twenty-Three 01:12:07                                                   UPDATE                   
+         3 C##DES02                       14 April     Twenty Twenty-Three 01:12:07                                                   DELETE                   
+
+
+Table ORDER_LINE_ROW_AUDIT dropped.
+
+
+Table ORDER_LINE_ROW_AUDIT created.
+
+
+Sequence OL_ROW_AUDIT_SEQUENCE dropped.
+
+
+Sequence OL_ROW_AUDIT_SEQUENCE created.
+
+
+Trigger OL_ROW_AUDIT_TRIGGER compiled
+
+no rows selected
+
+1 row updated.
+
+
+Commit complete.
+
+
+    ROW_ID UPDATING_USER                  TO_CHAR(UPDATING_TIME,'DDMONTHYEARHH:MI:SS')                                                OLD_OL_QUANTITY
+---------- ------------------------------ ------------------------------------------------------------------------------------------- ---------------
+         1 C##DES02                       14 April     Twenty Twenty-Three 01:12:07                                                                20
+

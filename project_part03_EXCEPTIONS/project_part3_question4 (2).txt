@@ -1,0 +1,36 @@
+
+TO_CHAR(SYSDATE,'DAYDDMONTHYEARHH:MI:SSAM')                                                                                        
+-----------------------------------------------------------------------------------------------------------------------------------
+Friday    03 February  Twenty Twenty-Three 12:37:23 Pm
+
+
+Function CONSULTANT_VALIDATION compiled
+
+
+Function SKILL_VALIDATION compiled
+
+
+Function CONSULTANT_SKILL_VERIFICATION compiled
+
+
+Procedure P3Q4 compiled
+
+The certification was updated.
+The consultant full name is Myers Mark and the correspondant skill description is Java Programming.
+
+
+PL/SQL procedure successfully completed.
+
+The certification was updated.
+The consultant full name is Zhang Brian and the correspondant skill description is COBOL Programming.
+
+
+PL/SQL procedure successfully completed.
+
+The consultant ID 200 does not exist, my friend!
+The skill  ID 10 does not exist, my friend!
+The p_certification must be Y or N.
+
+
+PL/SQL procedure successfully completed.
+

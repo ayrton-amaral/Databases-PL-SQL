@@ -1,0 +1,82 @@
+
+TO_CHAR(SYSDATE,'DAYDDMONTHYEARHH:MI:SSAM')                                                                                        
+-----------------------------------------------------------------------------------------------------------------------------------
+Tuesday   07 March     Twenty Twenty-Three 08:59:25 Am
+
+
+Procedure P6Q2 compiled
+
+
+--------------- CONSULTANT ---------------
+Consultant 100 is Myers Mark.
+--------------- SKILLS ---------------
+Skill 1 is VB .NET Programming. Certification: n.
+Skill 3 is Java Programming. Certification: n.
+Skill 6 is Oracle Developer Programming. Certification: n.
+ 
+--------------- CONSULTANT ---------------
+Consultant 101 is Hernandez Sheila.
+--------------- SKILLS ---------------
+Skill 4 is Project Management. Certification: N.
+Skill 5 is Web Application Programming. Certification: N.
+ 
+--------------- CONSULTANT ---------------
+Consultant 102 is Zhang Brian.
+--------------- SKILLS ---------------
+Skill 2 is COBOL Programming. Certification: Y.
+Skill 7 is Oracle Database Administration. Certification: Y.
+ 
+--------------- CONSULTANT ---------------
+Consultant 103 is Carlson Sarah.
+--------------- SKILLS ---------------
+Skill 1 is VB .NET Programming. Certification: Y.
+Skill 6 is Oracle Developer Programming. Certification: Y.
+Skill 8 is Windows NT/2000 Network Administration. Certification: Y.
+Skill 9 is Windows XP Network Administration. Certification: Y.
+ 
+--------------- CONSULTANT ---------------
+Consultant 104 is Courtlandt Paul.
+--------------- SKILLS ---------------
+Skill 8 is Windows NT/2000 Network Administration. Certification: N.
+Skill 9 is Windows XP Network Administration. Certification: Y.
+ 
+--------------- CONSULTANT ---------------
+Consultant 105 is Park Janet.
+--------------- SKILLS ---------------
+Skill 2 is COBOL Programming. Certification: N.
+Skill 3 is Java Programming. Certification: N.
+Skill 4 is Project Management. Certification: Y.
+
+
+PL/SQL procedure successfully completed.
+
+
+Procedure P6Q5 compiled
+
+
+--------------- CONSULTANT ---------------
+Consultant 100 is Myers Mark, from Eau Claire.
+--------------- SKILLS ---------------
+His/her skill is VB .NET Programming. Old certification status: N;  New certification status: Y.
+His/her skill is Java Programming. Old certification status: N;  New certification status: Y.
+His/her skill is Oracle Developer Programming. Old certification status: N;  New certification status: Y.
+
+
+PL/SQL procedure successfully completed.
+
+The character used to update the status must be: Y or N.
+
+
+PL/SQL procedure successfully completed.
+
+
+--------------- CONSULTANT ---------------
+Consultant 100 is Myers Mark, from Eau Claire.
+--------------- SKILLS ---------------
+His/her skill is VB .NET Programming. Old certification status: Y;  New certification status: N.
+His/her skill is Java Programming. Old certification status: Y;  New certification status: N.
+His/her skill is Oracle Developer Programming. Old certification status: Y;  New certification status: N.
+
+
+PL/SQL procedure successfully completed.
+

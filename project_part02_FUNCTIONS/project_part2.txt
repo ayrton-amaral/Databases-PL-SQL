@@ -1,0 +1,73 @@
+
+TO_CHAR(SYSDATE,'DAYDDMONTHYEARHH:MI:SSAM')                                                                                        
+-----------------------------------------------------------------------------------------------------------------------------------
+Wednesday 25 January   Twenty Twenty-Three 10:20:14 Pm
+
+
+Function QUESTION1 compiled
+
+
+QUESTION1(2,3)
+--------------
+             6
+
+
+QUESTION1(3,10)
+---------------
+             30
+
+
+QUESTION1(2,5)
+--------------
+            10
+
+
+Procedure QUESTION2 compiled
+
+For a rectangle of size 2 by 3 the area is 6.
+
+
+PL/SQL procedure successfully completed.
+
+For a rectangle of size 5 by 10 the area is 50.
+
+
+PL/SQL procedure successfully completed.
+
+
+Procedure QUESTION3 compiled
+
+For a square of size 2 by 2 the area is 4.
+
+
+PL/SQL procedure successfully completed.
+
+For a rectangle of size 3 by 5 the area is 15.
+
+
+PL/SQL procedure successfully completed.
+
+
+Procedure QUESTION4 compiled
+
+For 2 dollars Canadian, you will have 200 YEN
+
+
+PL/SQL procedure successfully completed.
+
+
+Function YES_EVEN compiled
+
+
+Procedure QUESTION6 compiled
+
+Number 6 is EVEN
+
+
+PL/SQL procedure successfully completed.
+
+Number 5 is ODD
+
+
+PL/SQL procedure successfully completed.
+

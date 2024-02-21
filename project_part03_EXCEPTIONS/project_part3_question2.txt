@@ -1,0 +1,18 @@
+
+TO_CHAR(SYSDATE,'DAYDDMONTHYEARHH:MI:SSAM')                                                                                        
+-----------------------------------------------------------------------------------------------------------------------------------
+Saturday  28 January   Twenty Twenty-Three 10:54:24 Pm
+
+
+Procedure P3Q2 compiled
+
+The inventory id 1 has the following item description: 3-Season Tent. Its price is 259.99 and the color is Sky Blue. The current inventory of this product is 16 with a value of 4159.84.
+
+
+PL/SQL procedure successfully completed.
+
+The inventory id 1000 does not exist, my friend!
+
+
+PL/SQL procedure successfully completed.
+

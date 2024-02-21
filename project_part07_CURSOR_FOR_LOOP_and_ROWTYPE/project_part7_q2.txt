@@ -1,0 +1,62 @@
+
+TO_CHAR(SYSDATE,'DAYDDMONTHYEARHH:MI:SSAM')                                                                                        
+-----------------------------------------------------------------------------------------------------------------------------------
+Monday    13 March     Twenty Twenty-Three 08:30:56 Pm
+
+
+Procedure P2Q7 compiled
+
+
+--------------- CONSULTANT ---------------
+Consultant 100 is Myers Mark.
+--------------- SKILLS ---------------
+Skill 1 is VB .NET Programming. Certification: n.
+--------------- SKILLS ---------------
+Skill 3 is Java Programming. Certification: n.
+--------------- SKILLS ---------------
+Skill 6 is Oracle Developer Programming. Certification: n.
+ 
+--------------- CONSULTANT ---------------
+Consultant 101 is Hernandez Sheila.
+--------------- SKILLS ---------------
+Skill 4 is Project Management. Certification: N.
+--------------- SKILLS ---------------
+Skill 5 is Web Application Programming. Certification: N.
+ 
+--------------- CONSULTANT ---------------
+Consultant 102 is Zhang Brian.
+--------------- SKILLS ---------------
+Skill 2 is COBOL Programming. Certification: Y.
+--------------- SKILLS ---------------
+Skill 7 is Oracle Database Administration. Certification: Y.
+ 
+--------------- CONSULTANT ---------------
+Consultant 103 is Carlson Sarah.
+--------------- SKILLS ---------------
+Skill 1 is VB .NET Programming. Certification: Y.
+--------------- SKILLS ---------------
+Skill 6 is Oracle Developer Programming. Certification: Y.
+--------------- SKILLS ---------------
+Skill 8 is Windows NT/2000 Network Administration. Certification: Y.
+--------------- SKILLS ---------------
+Skill 9 is Windows XP Network Administration. Certification: Y.
+ 
+--------------- CONSULTANT ---------------
+Consultant 104 is Courtlandt Paul.
+--------------- SKILLS ---------------
+Skill 8 is Windows NT/2000 Network Administration. Certification: N.
+--------------- SKILLS ---------------
+Skill 9 is Windows XP Network Administration. Certification: Y.
+ 
+--------------- CONSULTANT ---------------
+Consultant 105 is Park Janet.
+--------------- SKILLS ---------------
+Skill 2 is COBOL Programming. Certification: N.
+--------------- SKILLS ---------------
+Skill 3 is Java Programming. Certification: N.
+--------------- SKILLS ---------------
+Skill 4 is Project Management. Certification: Y.
+
+
+PL/SQL procedure successfully completed.
+

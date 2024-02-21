@@ -1,0 +1,109 @@
+
+TO_CHAR(SYSDATE,'DAYDDMONTHYEARHH:MI:SSAM')                                                                                        
+-----------------------------------------------------------------------------------------------------------------------------------
+Tuesday   17 January   Twenty Twenty-Three 08:49:39 Pm
+
+
+Procedure L1Q1 compiled
+
+The triple of 2 is 6.
+
+
+PL/SQL procedure successfully completed.
+
+The triple of 3 is 9.
+
+
+PL/SQL procedure successfully completed.
+
+
+Procedure L1Q2 compiled
+
+0 degree in C is equivalent to 32 in F.
+
+
+PL/SQL procedure successfully completed.
+
+38 degree in C is equivalent to 100.4 in F.
+
+
+PL/SQL procedure successfully completed.
+
+-12 degree in C is equivalent to 10.4 in F.
+
+
+PL/SQL procedure successfully completed.
+
+
+Procedure L1Q3 compiled
+
+0 degree in F is equivalent to -32 in C.
+
+
+PL/SQL procedure successfully completed.
+
+98 degree in F is equivalent to 22.44 in C.
+
+
+PL/SQL procedure successfully completed.
+
+400 degree in F is equivalent to 190.22 in C.
+
+
+PL/SQL procedure successfully completed.
+
+
+Procedure L1Q4 compiled
+
+For the price of $ 100
+You will have to pay $ 5 GST
+$ 9.98 QST for a total of $ 14.98
+The GRAND TOTAL is $ 114.98
+
+
+PL/SQL procedure successfully completed.
+
+
+Procedure L1Q5 compiled
+
+The area of a 2 by 3 rectangle is 6. Its perimeter is 10.
+
+
+PL/SQL procedure successfully completed.
+
+
+Function L1Q6 compiled
+
+
+   L1Q6(0)
+----------
+        32
+
+
+  L1Q6(27)
+----------
+      80.6
+
+
+  L1Q6(18)
+----------
+      64.4
+
+
+Function L1Q_FINAL compiled
+
+
+L1Q_FINAL(80)
+-------------
+        12.44
+
+
+L1Q_FINAL(74)
+-------------
+         9.11
+
+
+L1Q_FINAL(450)
+--------------
+           218
+

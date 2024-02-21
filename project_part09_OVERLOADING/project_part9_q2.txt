@@ -1,0 +1,52 @@
+
+TO_CHAR(SYSDATE,'DAYDDMONTHYEARHH:MI:SSAM')                                                                                        
+-----------------------------------------------------------------------------------------------------------------------------------
+Thursday  30 March     Twenty Twenty-Three 01:05:25 Am
+
+
+Package NEW_STUDENT_PACKAGE compiled
+
+
+Sequence STUDENT_SEQUENCE dropped.
+
+
+Sequence STUDENT_SEQUENCE created.
+
+
+Package Body NEW_STUDENT_PACKAGE compiled
+
+The new student was added with success!
+
+
+PL/SQL procedure successfully completed.
+
+The new student was added with success!
+
+
+PL/SQL procedure successfully completed.
+
+The new student was added with success!
+
+
+PL/SQL procedure successfully completed.
+
+The new student was added with success!
+
+
+PL/SQL procedure successfully completed.
+
+The faculty id given: 5 does not exist!
+
+
+PL/SQL procedure successfully completed.
+
+The student id given: 10 is already being used!
+
+
+PL/SQL procedure successfully completed.
+
+The birthdate given: 30-04-05 is in the future!
+
+
+PL/SQL procedure successfully completed.
+

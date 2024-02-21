@@ -1,0 +1,23 @@
+
+TO_CHAR(SYSDATE,'DAYDDMONTHYEARHH:MI:SSAM')                                                                                        
+-----------------------------------------------------------------------------------------------------------------------------------
+Saturday  28 January   Twenty Twenty-Three 10:11:44 Pm
+
+
+Procedure P3Q1 compiled
+
+The employee number 7902 works on RESEARCH in DALLAS. Her/His name is FORD and receives an annual salary of 36000.
+
+
+PL/SQL procedure successfully completed.
+
+The employee number 7499 works on SALES in CHICAGO. Her/His name is ALLEN and receives an annual salary of 19500.
+
+
+PL/SQL procedure successfully completed.
+
+Employee number 1 does not exist, my friend!
+
+
+PL/SQL procedure successfully completed.
+

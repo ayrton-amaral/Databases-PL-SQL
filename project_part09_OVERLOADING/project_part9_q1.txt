@@ -1,0 +1,37 @@
+
+TO_CHAR(SYSDATE,'DAYDDMONTHYEARHH:MI:SSAM')                                                                                        
+-----------------------------------------------------------------------------------------------------------------------------------
+Thursday  30 March     Twenty Twenty-Three 12:38:27 Am
+
+
+Package NEW_CUSTOMER_PACKAGE compiled
+
+
+Sequence CUSTOMER_SEQUENCE dropped.
+
+
+Sequence CUSTOMER_SEQUENCE created.
+
+
+Package Body NEW_CUSTOMER_PACKAGE compiled
+
+The new customer was added with success!
+
+
+PL/SQL procedure successfully completed.
+
+The new customer was added with success!
+
+
+PL/SQL procedure successfully completed.
+
+The new customer was added with success!
+
+
+PL/SQL procedure successfully completed.
+
+The new customer was added with success!
+
+
+PL/SQL procedure successfully completed.
+

@@ -1,0 +1,53 @@
+
+TO_CHAR(SYSDATE,'DAYDDMONTHYEARHH:MI:SSAM')                                                                                        
+-----------------------------------------------------------------------------------------------------------------------------------
+Wednesday 08 February  Twenty Twenty-Three 10:12:57 Pm
+
+
+Procedure P4Q1 compiled
+
+
+Procedure L4Q1 compiled
+
+The area of a square size 2 by 2 is 4. It's perimeter is 8.
+
+
+PL/SQL procedure successfully completed.
+
+The area of a rectangle size 2 by 3 is 6. It's perimeter is 10.
+
+
+PL/SQL procedure successfully completed.
+
+
+Procedure PSEUDO_FUN compiled
+
+
+Procedure L4Q2 compiled
+
+The area of a square size 2 by 2 is 4. It's perimeter is 8.
+
+
+PL/SQL procedure successfully completed.
+
+The area of a rectangle size 2 by 3 is 6. It's perimeter is 10.
+
+
+PL/SQL procedure successfully completed.
+
+
+Procedure P4Q3 compiled
+
+
+Procedure L4Q3 compiled
+
+The new value of the inventory is 7369.6
+
+
+PL/SQL procedure successfully completed.
+
+The inventory id does not exist, my friend. So, we cannot increase the percentage.
+
+
+PL/SQL procedure successfully completed.
+

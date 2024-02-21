@@ -1,0 +1,142 @@
+
+TO_CHAR(SYSDATE,'DAYDDMONTHYEARHH:MI:SSAM')                                                                                        
+-----------------------------------------------------------------------------------------------------------------------------------
+Tuesday   07 March     Twenty Twenty-Three 08:48:04 Am
+
+
+Procedure P6Q3 compiled
+
+
+--------------- ITEM ---------------
+Item 1 is Men's Expedition Parka of the category 3.
+--------------- INVENTORY ---------------
+Item ID: 23, Color: Spruce, Size: S, Price $1947.73, Quantity: 114.
+Item ID: 24, Color: Spruce, Size: M, Price $1947.73, Quantity: 17.
+Item ID: 25, Color: Spruce, Size: L, Price $2045.1, Quantity: 0.
+Item ID: 26, Color: Spruce, Size: XL, Price $2045.1, Quantity: 12.
+ 
+--------------- ITEM ---------------
+Item 2 is 3-Season Tent of the category 4.
+--------------- INVENTORY ---------------
+Item ID: 1, Color: Sky Blue, Size: , Price $4935.17, Quantity: 16.
+Item ID: 2, Color: Light Grey, Size: , Price $2532.53, Quantity: 12.
+ 
+--------------- ITEM ---------------
+Item 3 is Women's Hiking Shorts of the category 1.
+--------------- INVENTORY ---------------
+Item ID: 3, Color: Khaki, Size: S, Price $291.85, Quantity: 150.
+Item ID: 4, Color: Khaki, Size: M, Price $291.85, Quantity: 147.
+Item ID: 5, Color: Khaki, Size: L, Price $291.85, Quantity: 0.
+Item ID: 6, Color: Navy, Size: S, Price $291.85, Quantity: 139.
+Item ID: 7, Color: Navy, Size: M, Price $291.85, Quantity: 137.
+Item ID: 8, Color: Navy, Size: L, Price $291.85, Quantity: 115.
+ 
+--------------- ITEM ---------------
+Item 4 is Women's Fleece Pullover of the category 1.
+--------------- INVENTORY ---------------
+Item ID: 9, Color: Eggplant, Size: S, Price $584.06, Quantity: 135.
+Item ID: 10, Color: Eggplant, Size: M, Price $584.06, Quantity: 168.
+Item ID: 11, Color: Eggplant, Size: L, Price $584.06, Quantity: 187.
+Item ID: 12, Color: Royal, Size: S, Price $584.06, Quantity: 0.
+Item ID: 13, Color: Royal, Size: M, Price $584.06, Quantity: 124.
+Item ID: 14, Color: Royal, Size: L, Price $584.06, Quantity: 112.
+ 
+--------------- ITEM ---------------
+Item 5 is Children's Beachcomber Sandals of the category 2.
+--------------- INVENTORY ---------------
+Item ID: 15, Color: Turquoise, Size: 10, Price $155.75, Quantity: 121.
+Item ID: 16, Color: Turquoise, Size: 11, Price $155.75, Quantity: 111.
+Item ID: 17, Color: Turquoise, Size: 12, Price $155.75, Quantity: 113.
+Item ID: 18, Color: Turquoise, Size: 1, Price $155.75, Quantity: 121.
+Item ID: 19, Color: Bright Pink, Size: 10, Price $155.75, Quantity: 148.
+Item ID: 20, Color: Bright Pink, Size: 11, Price $155.75, Quantity: 137.
+Item ID: 21, Color: Bright Pink, Size: 12, Price $155.75, Quantity: 134.
+Item ID: 22, Color: Bright Pink, Size: 1, Price $155.75, Quantity: 123.
+ 
+--------------- ITEM ---------------
+Item 6 is Boy's Surf Shorts of the category 2.
+--------------- INVENTORY ---------------
+Item ID: 27, Color: Blue, Size: S, Price $155.45, Quantity: 50.
+Item ID: 28, Color: Blue, Size: M, Price $155.45, Quantity: 100.
+Item ID: 29, Color: Blue, Size: L, Price $155.45, Quantity: 100.
+ 
+--------------- ITEM ---------------
+Item 7 is Girl's Soccer Tee of the category 2.
+--------------- INVENTORY ---------------
+Item ID: 30, Color: White, Size: S, Price $194.77, Quantity: 100.
+Item ID: 31, Color: White, Size: M, Price $194.77, Quantity: 100.
+Item ID: 32, Color: White, Size: L, Price $194.77, Quantity: 100.
+
+
+PL/SQL procedure successfully completed.
+
+
+Function F_CALCULATE_ITEM_VALUE compiled
+
+
+Procedure P6Q4 compiled
+
+
+--------------- ITEM ---------------
+Item 1 is Men's Expedition Parka of the category 3, and has a total value of $279693.83.
+--------------- INVENTORY ---------------
+Item ID: 23, Color: Spruce, Size: S, Price $1947.73, Quantity: 114.
+Item ID: 24, Color: Spruce, Size: M, Price $1947.73, Quantity: 17.
+Item ID: 25, Color: Spruce, Size: L, Price $2045.1, Quantity: 0.
+Item ID: 26, Color: Spruce, Size: XL, Price $2045.1, Quantity: 12.
+ 
+--------------- ITEM ---------------
+Item 2 is 3-Season Tent of the category 4, and has a total value of $109353.08.
+--------------- INVENTORY ---------------
+Item ID: 1, Color: Sky Blue, Size: , Price $4935.17, Quantity: 16.
+Item ID: 2, Color: Light Grey, Size: , Price $2532.53, Quantity: 12.
+ 
+--------------- ITEM ---------------
+Item 3 is Women's Hiking Shorts of the category 1, and has a total value of $200792.8.
+--------------- INVENTORY ---------------
+Item ID: 3, Color: Khaki, Size: S, Price $291.85, Quantity: 150.
+Item ID: 4, Color: Khaki, Size: M, Price $291.85, Quantity: 147.
+Item ID: 5, Color: Khaki, Size: L, Price $291.85, Quantity: 0.
+Item ID: 6, Color: Navy, Size: S, Price $291.85, Quantity: 139.
+Item ID: 7, Color: Navy, Size: M, Price $291.85, Quantity: 137.
+Item ID: 8, Color: Navy, Size: L, Price $291.85, Quantity: 115.
+ 
+--------------- ITEM ---------------
+Item 4 is Women's Fleece Pullover of the category 1, and has a total value of $424027.56.
+--------------- INVENTORY ---------------
+Item ID: 9, Color: Eggplant, Size: S, Price $584.06, Quantity: 135.
+Item ID: 10, Color: Eggplant, Size: M, Price $584.06, Quantity: 168.
+Item ID: 11, Color: Eggplant, Size: L, Price $584.06, Quantity: 187.
+Item ID: 12, Color: Royal, Size: S, Price $584.06, Quantity: 0.
+Item ID: 13, Color: Royal, Size: M, Price $584.06, Quantity: 124.
+Item ID: 14, Color: Royal, Size: L, Price $584.06, Quantity: 112.
+ 
+--------------- ITEM ---------------
+Item 5 is Children's Beachcomber Sandals of the category 2, and has a total value of $156996.
+--------------- INVENTORY ---------------
+Item ID: 15, Color: Turquoise, Size: 10, Price $155.75, Quantity: 121.
+Item ID: 16, Color: Turquoise, Size: 11, Price $155.75, Quantity: 111.
+Item ID: 17, Color: Turquoise, Size: 12, Price $155.75, Quantity: 113.
+Item ID: 18, Color: Turquoise, Size: 1, Price $155.75, Quantity: 121.
+Item ID: 19, Color: Bright Pink, Size: 10, Price $155.75, Quantity: 148.
+Item ID: 20, Color: Bright Pink, Size: 11, Price $155.75, Quantity: 137.
+Item ID: 21, Color: Bright Pink, Size: 12, Price $155.75, Quantity: 134.
+Item ID: 22, Color: Bright Pink, Size: 1, Price $155.75, Quantity: 123.
+ 
+--------------- ITEM ---------------
+Item 6 is Boy's Surf Shorts of the category 2, and has a total value of $38862.5.
+--------------- INVENTORY ---------------
+Item ID: 27, Color: Blue, Size: S, Price $155.45, Quantity: 50.
+Item ID: 28, Color: Blue, Size: M, Price $155.45, Quantity: 100.
+Item ID: 29, Color: Blue, Size: L, Price $155.45, Quantity: 100.
+ 
+--------------- ITEM ---------------
+Item 7 is Girl's Soccer Tee of the category 2, and has a total value of $58431.
+--------------- INVENTORY ---------------
+Item ID: 30, Color: White, Size: S, Price $194.77, Quantity: 100.
+Item ID: 31, Color: White, Size: M, Price $194.77, Quantity: 100.
+Item ID: 32, Color: White, Size: L, Price $194.77, Quantity: 100.
+
+
+PL/SQL procedure successfully completed.
+

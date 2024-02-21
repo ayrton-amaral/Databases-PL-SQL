@@ -1,0 +1,26 @@
+
+TO_CHAR(SYSDATE,'DAYDDMONTHYEARHH:MI:SSAM')                                                                                        
+-----------------------------------------------------------------------------------------------------------------------------------
+Tuesday   31 January   Twenty Twenty-Three 08:46:44 Pm
+
+
+Function FIND_AGE compiled
+
+
+FIND_AGE(TO_DATE('26/10/1994','DD/MM/YYYY'))
+--------------------------------------------
+                                          28
+
+
+Procedure P3Q3 compiled
+
+The student ID 1 refers to the student Miller Sarah that was born in 85-07-14, which he/she has 37 years old.
+
+
+PL/SQL procedure successfully completed.
+
+The student ID 7 does not exist, my friend!
+
+
+PL/SQL procedure successfully completed.
+

@@ -1,0 +1,108 @@
+
+TO_CHAR(SYSDATE,'DAYDDMONTHYEARHH:MI:SSAM')                                                                                        
+-----------------------------------------------------------------------------------------------------------------------------------
+Wednesday 26 April     Twenty Twenty-Three 04:59:57 Pm
+
+
+View STUDENTS_COURSES_VIEW created.
+
+
+COURSE_NAME                  CREDITS S_LAST                         S_FIRST                          C_SEC_ID    SEC_NUM G
+------------------------- ---------- ------------------------------ ------------------------------ ---------- ---------- -
+Databases II                       3 Amaral                         Ayrton                                 14          2 A
+Intro. to Info. Systems            3 Miller                         Sarah                                   1          1 A
+Intro. to Info. Systems            3 Miller                         Sarah                                   2          2 A
+Intro. to Info. Systems            3 Miller                         Sarah                                   3          3 A
+Systems Analysis                   3 Miller                         Sarah                                   4          1 A
+Database Management                3 Miller                         Sarah                                   6          1 A
+Intro. to Info. Systems            3 Umato                          Brian                                   1          1 A
+Systems Analysis                   3 Umato                          Brian                                   5          2 B
+Database Management                3 Umato                          Brian                                   6          1 A
+Web-Based Systems                  3 Umato                          Brian                                   9          1 B
+Intro. to Info. Systems            3 Black                          Daniel                                  1          1 A
+
+COURSE_NAME                  CREDITS S_LAST                         S_FIRST                          C_SEC_ID    SEC_NUM G
+------------------------- ---------- ------------------------------ ------------------------------ ---------- ---------- -
+Systems Analysis                   3 Black                          Daniel                                 12          1 A
+Database Management                3 Black                          Daniel                                 13          1 A
+Intro. to Info. Systems            3 Mobley                         Amanda                                 11          1 C
+Systems Analysis                   3 Mobley                         Amanda                                 12          1 C
+Intro. to Info. Systems            3 Sanchez                        Ruben                                   1          1 B
+Intro. to Info. Systems            3 Sanchez                        Ruben                                  11          1 B
+Systems Analysis                   3 Sanchez                        Ruben                                   5          2 B
+Database Management                3 Sanchez                        Ruben                                  13          1 B
+Web-Based Systems                  3 Sanchez                        Ruben                                   9          1 B
+Intro. to Info. Systems            3 Connoly                        Michael                                11          1  
+Systems Analysis                   3 Connoly                        Michael                                12          1  
+
+COURSE_NAME                  CREDITS S_LAST                         S_FIRST                          C_SEC_ID    SEC_NUM G
+------------------------- ---------- ------------------------------ ------------------------------ ---------- ---------- -
+Intro. to Info. Systems            3 Dubois                                                                 1          1 A
+Intro. to Info. Systems            3 Irineu                                                                 1          1 A
+
+24 rows selected. 
+
+
+1 row updated.
+
+
+Sequence STUDS_SEQUENCE dropped.
+
+
+Sequence STUDS_SEQUENCE created.
+
+
+Sequence COURSE_SEQUENCE dropped.
+
+
+Sequence COURSE_SEQUENCE created.
+
+
+Sequence CSECID_SEQUENCE dropped.
+
+
+Sequence CSECID_SEQUENCE created.
+
+
+Trigger STUDENTS_COURSES_VIEW_TRIGGER compiled
+
+
+1 row inserted.
+
+
+COURSE_NAME                  CREDITS S_LAST                         S_FIRST                          C_SEC_ID    SEC_NUM G
+------------------------- ---------- ------------------------------ ------------------------------ ---------- ---------- -
+Databases II                       3 Amaral                         Ayrton                                 14          2 A
+Intro. to Info. Systems            3 Miller                         Sarah                                   1          1 A
+Intro. to Info. Systems            3 Miller                         Sarah                                   2          2 A
+Intro. to Info. Systems            3 Miller                         Sarah                                   3          3 A
+Systems Analysis                   3 Miller                         Sarah                                   4          1 A
+Database Management                3 Miller                         Sarah                                   6          1 A
+Intro. to Info. Systems            3 Umato                          Brian                                   1          1 A
+Systems Analysis                   3 Umato                          Brian                                   5          2 B
+Database Management                3 Umato                          Brian                                   6          1 A
+Web-Based Systems                  3 Umato                          Brian                                   9          1 B
+Intro. to Info. Systems            3 Black                          Daniel                                  1          1 A
+
+COURSE_NAME                  CREDITS S_LAST                         S_FIRST                          C_SEC_ID    SEC_NUM G
+------------------------- ---------- ------------------------------ ------------------------------ ---------- ---------- -
+Systems Analysis                   3 Black                          Daniel                                 12          1 A
+Database Management                3 Black                          Daniel                                 13          1 A
+Intro. to Info. Systems            3 Mobley                         Amanda                                 11          1 C
+Systems Analysis                   3 Mobley                         Amanda                                 12          1 C
+Intro. to Info. Systems            3 Sanchez                        Ruben                                   1          1 B
+Intro. to Info. Systems            3 Sanchez                        Ruben                                  11          1 B
+Systems Analysis                   3 Sanchez                        Ruben                                   5          2 B
+Database Management                3 Sanchez                        Ruben                                  13          1 B
+Web-Based Systems                  3 Sanchez                        Ruben                                   9          1 B
+Intro. to Info. Systems            3 Connoly                        Michael                                11          1  
+Systems Analysis                   3 Connoly                        Michael                                12          1  
+
+COURSE_NAME                  CREDITS S_LAST                         S_FIRST                          C_SEC_ID    SEC_NUM G
+------------------------- ---------- ------------------------------ ------------------------------ ---------- ---------- -
+Intro. to Info. Systems            3 Dubois                                                                 1          1 A
+Intro. to Info. Systems            3 Irineu                                                                 1          1 A
+Databases II                       2 Amaral                         Ayrton                                 15          4 A
+
+25 rows selected. 
+

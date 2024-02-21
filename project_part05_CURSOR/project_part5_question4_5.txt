@@ -1,0 +1,54 @@
+
+TO_CHAR(SYSDATE,'DAYDDMONTHYEARHH:MI:SSAM')                                                                                        
+-----------------------------------------------------------------------------------------------------------------------------------
+Friday    17 February  Twenty Twenty-Three 01:34:48 Pm
+
+
+Procedure P5Q4 compiled
+
+The top 5 employees who earn the highest salary are: 
+KING 5000
+SCOTT 3000
+FORD 3000
+JONES 2975
+BLAKE 2850
+
+
+PL/SQL procedure successfully completed.
+
+
+Procedure P5Q5 compiled
+
+The employees who earn the top 1 salaries are: 
+KING 5000
+
+
+PL/SQL procedure successfully completed.
+
+The employees who earn the top 2 salaries are: 
+KING 5000
+SCOTT 3000
+FORD 3000
+
+
+PL/SQL procedure successfully completed.
+
+The employees who earn the top 3 salaries are: 
+KING 5000
+SCOTT 3000
+FORD 3000
+JONES 2975
+
+
+PL/SQL procedure successfully completed.
+
+The employees who earn the top 4 salaries are: 
+KING 5000
+SCOTT 3000
+FORD 3000
+JONES 2975
+BLAKE 2850
+
+
+PL/SQL procedure successfully completed.
+
